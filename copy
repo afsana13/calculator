@@ -1,0 +1,20 @@
+.side-nav{
+    position: fixed;
+
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 0;
+    background: linear-gradient(#003152,#000000);
+    background-size: 100% 500%;
+    background-position: 0 40%;
+   }
+   
+   
+   
+   

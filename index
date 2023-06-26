@@ -1,0 +1,47 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>WEB page design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h3 class="logo"> Raise Reason Rise</h3>
+            </div>
+            <div class="menu">
+                <ul>
+                   <li ><a href="#">HOME</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">SERVICES</a></li>
+                   <li ><a href="#">DONATION COUNTER</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </div>
+            <div class="search">
+            <input class="srch"type="search" name="" placeholder="Type to text">
+                <a href="#"> <button class="btn">search</button></a>
+            </div>
+            <div class="content">
+                <h1><span >Non Govermental Organisation's</span></h1>
+                <p class="par"> The organisation "Raise Reason Rise" aims to adress the global problem of poor children who got hit by "POVERTY" .<br>Through which it has drastic circumstances such as'Child labour' , 'Unemployement','lack of Right to education','Healthcare issues' etc.<br> There is no better way to create a vision for such children to start providing them free education .<br> Get in on the act to make their lives better and create their future bright. </p>
+
+                <button class="cn"><a href="#"> JOIN US </a></button>
+
+                <div class="form">
+                    <h2>Login Here</h2>
+                    <input type="email" name="email" placeholder="Enter Email Here">
+                    <input type="password" name="" placeholder="Enter Password Here">
+                    <button class="btnn"><a href="#">Login</a></button>
+
+                    <p class="link"> Don't have an account</p><br>
+                    <a href="#">sign up here</a>
+                    <p class="liw">Log in with</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
